@@ -1,9 +1,8 @@
 # quickSortOfVector
 #### N개의 정수를 입력 받아 빠른 정렬로 재배치 해보기 (벡터, 배열 차이 있음)
-
-
-
-
+<br/>
+<br/>
+<br/>
 ##### 실행창 1
 
 #vector로 전달
@@ -14,13 +13,9 @@
  ``` C++
 void quickSort(int, int, vector<int>);
  ``` 
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 ##### 실행창 2
 
 #배열로 전달
