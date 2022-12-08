@@ -21,3 +21,6 @@ N개의 정수를 입력 받아 빠른 정렬로 재배치 해보기 (벡터, �
 
 
 ![퀵정렬 결과 2](https://user-images.githubusercontent.com/68893329/206375405-9640bcb1-9fed-4793-b2b9-d5a37e1eb8e1.png)
+
+
+    void quickSort(int, int, int []);
