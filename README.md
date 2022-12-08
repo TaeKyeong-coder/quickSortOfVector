@@ -11,7 +11,9 @@
 
 ![퀵정렬 결과](https://user-images.githubusercontent.com/68893329/206371309-c20c1db1-56a5-4027-8710-9fc11ed4f0c5.png)
 
-    void quickSort(int, int, vector<int>);
+ ``` C++
+void quickSort(int, int, vector<int>);
+ ``` 
 
 
 
@@ -27,4 +29,6 @@
 ![퀵정렬 결과 2](https://user-images.githubusercontent.com/68893329/206375405-9640bcb1-9fed-4793-b2b9-d5a37e1eb8e1.png)
 
 
-    void quickSort(int, int, int []);
+ ``` C++
+void quickSort(int, int, int []);
+ ``` 
