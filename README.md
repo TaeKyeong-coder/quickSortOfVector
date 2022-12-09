@@ -1,6 +1,6 @@
 # 퀵정렬 공부
 * 설명 참고
- * https://donggoolosori.github.io/2021/01/05/quicksort/
+  * https://donggoolosori.github.io/2021/01/05/quicksort/
 </br>
 #### N개의 정수를 입력 받아 빠른 정렬로 재배치 해보기 (벡터, 배열 차이 있음)
 <br/>
